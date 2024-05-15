@@ -6,7 +6,8 @@ Join a motivated developer on his journey to successfully implement his idea. Al
 
 A thriller in three acts.
 
-[Get the slides here!](insights-from-a-spring-boot-leisure-project.pdf)
+[Get the slides here!](insights-from-a-spring-boot-leisure-project.pdf) \
+[Lovebox Telegram App](/patbaumgartner/lovebox-telegram-sender)
 
 ## About
 
